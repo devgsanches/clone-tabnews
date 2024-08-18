@@ -10,7 +10,7 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "author": "Guilherme Sanches",
+  "author": "Sanches",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
